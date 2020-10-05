@@ -1,0 +1,22 @@
+name: "Gregory L. Pearson"
+output_dir: "."
+navbar:
+  title: "Gregory L. Pearson"
+  left:
+    - text: "Research"
+      href: research.html
+    - text: "Teaching"
+      href: teaching.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-github fa-lg
+      href: https://github.com/greg-pearson
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/gregpearson0161
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/gregory-pearson-8b8b9261/
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
